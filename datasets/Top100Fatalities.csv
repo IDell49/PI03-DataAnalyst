@@ -1,102 +1,102 @@
-fatalities,date,location,carrier,flight,type
-2907,2001-09-11,"New York City, New York",American /United Airlines,11/93,B767 / B767
-583,1977-03-27,"Tenerife, Canary Islands",Pan Am / KLM,1736/4805,B747 / B747
-520,1985-08-12,"Mt. Osutaka, Japan",Japan Air Lines,123,B747
-349,1996-11-12,"New Delhi, India",Saudi / Kazastan,763/1907,B747 / Il76
-346,1974-03-03,"Bois d' Ermenonville, France",Turkish Airlines,981,DC10
-329,1985-06-23,Atlantic Ocean West of Ireland,Air India,182,B747
-301,1980-08-19,"Riyadh, Saudi Arabia",Saudi Arabian Airlines,163,L1011
-298,2014-07-17,"Hrabove, Ukraine",Malaysia Airlines,17,B-777
-290,1988-07-03,Persian Gulf,Iran Air,655,A300
-275,2003-02-19,"Shahdad, Iran",Islamic Revolution's Guards Co.,,Il-76MD
-273,1979-05-25,"Chicago, Illinois",American Airlines,191,DC10
-270,1988-12-21,"Lockerbie, Scotland",Pan American World Airways,103,B747
-269,1983-09-01,"Sakhalin Island, Russia",Korean Airlines,007,B747
-265,2001-11-12,"Belle Harbor, Queens, New York",American Airlines,587,A300
-264,1994-04-26,"Komaki, Japan",China Airlines,140,A300
-261,1991-07-11,"Jeddah, Saudi Arabia",Nationair/charter Nigeria AW,2021,DC8
-257,2018-04-11,"Bufarik AB, Algeria",Algerian Air Force,,Il76
-257,1979-11-28,"Mt. Erebus, Antarctica",Air New Zealand,901,DC10
-256,1985-12-12,"Gander, Newfoundland, Canada",Arrow Airways,MF1285R,DC8
-239,2014-03-08,South Indian Ocean,Malaysia Airlines,370,B777
-234,1997-09-26,"Buah Nabar, Indonesia",Garuda Indonesia Airlines,152,A300
-230,1996-07-17,"Off East Moriches, New York",Trans World Airlines,800,B747
-229,1998-09-02,"Off Nova Scotia, Canada",Swissair,111,MD11
-228,2009-06-01,Atlantic Ocean,Air France,447,A330
-228,1997-08-06,"Agana, Guam",Korean Airlines,801,B747
-227,1996-01-08,"Kinshasa, Zaire",African Air,,AN32
-225,2002-05-25,"Off Penghu, Taiwan",China Airlines,611,B747
-224,2015-10-31,"North Sinai, Egypt",Metroair,9268,A321
-223,1991-05-26,"Ban Nong Rong, Thailand",Lauda Air,004,B767
-217,1999-10-31,"Off Nantucket, Massachusetts",EgyptAir,990,B767
-213,1978-01-01,"Off Bandra, Maharashtra, India",Air India,855,B747
-203,1998-02-16,"Taipei, Taiwan",China Airlines,676,A300
-200,1985-07-10,"Uchuduk, Uzbekistan, USSR",Aeroflot,7425,TU154
-199,2007-07-17,"Sao Paulo, Brazil",TAM Brazil,3054,A320
-191,1974-12-04,"Maskeliya, Sri Lanka",Martinair Holland,138,DC8
-189,2001-09-11,"Arlington, Virginia",American Airlines,77,B757
-189,1996-02-06,"Puerto Plata, Dominican Republic",Alas Nacionales (Birgenair),301,B757
-189,2018-10-29,Lion Air,"Jakarta, Indonesia",610,B737
-188,1975-08-03,"Immouzer, Morocco",Aila Royal Jordanian Airlines,,B707
-183,1987-05-09,"Warsaw, Poland",Polskie Linie Lotnicze,5055,IL62
-183,1978-11-15,"Katunavake, Sir Lanka",Loftleidir,001,DC8
-181,1983-11-27,"Madrid, Spain",Avanca,11,B747
-180,1981-12-01,"Mt. San Pietro, Corsica, France",Index Adria Avioproment,JP1308,MD80
-178,1984-10-11,"Omsk, Russia",Aeroflot,3352,TU154
-178,1979-08-11,"Dneprodzerzhinsk, USSR",Aeroflot / Aeroflot,7880/7628,TU134/TU134
-176,2020-01-08,"Shahriah, Iran",Ukraine International Airlines,PS752,B737
-176,1989-06-07,"Paramaribo, Surinam",Surinam Airways,764,DC8
-176,1976-09-10,"Gaj, Hrvatska, Yugoslavia",Index Adria Avio / BA,550/476,DC9 /Trident
-176,1973-01-22,"Kano, Nigeria",Aila Royal Jordanian Airlines,,B707
-174,1972-10-13,"Krasnaya Polyana, USSR",Aeroflot,217,IL62
-171,1989-09-19,"Bilma, Niger",Union des Trans. Aeriens,772,DC10
-171,1989-09-03,"Havana, Cuba",Cubana,9646,IL62M
-170,2006-08-22,"Donetsk, Ukraine",Pulkovo Airlines,SP612,Tu-154M
-169,2000-01-30,"Off Abidjan, Ivory Coast",Kenya Airways,431,A310-304
-168,2009-07-15,"Qazvin, Iran",Caspian Airlines,RV7908,Tu-154M
-167,1992-09-28,"Bhadagon, Katmandu, Nepal",Pakistan Inter. Airlines,268,A300
-167,1986-03-31,"Maravatio, Mexico",Mexicana,940,B727
-166,1980-07-08,"Nar Alma-Ata, Kasakastan, USSR",Aeroflot,4225,TU154B
-163,1971-07-30,"Morioko, Japan",All Nippon / Japanese AF,58,B727 / F86F
-162,2014-12-28,Java Sea,AirAsia,8501,A320
-160,2005-08-16,"La Cucharita, Venezuela",West Carribean Airlines,708,MD-82
-160,1995-12-20,"Buga, Columbia",American Airlines,965,B757
-160,1994-06-06,"Xi'an, China",China Northwest Airlines,2303,TU154M
-159,1987-11-28,"Off Mauritius, Indian Ocean",South Africian Airways,295,B747
-159,2012-06-03,"Lagos, Nigeria",Dana Air,992,MD-80
-158,2010-05-22,"Mangalore, India",Air India Express,812,B737
-157,2019-03-10,"Bishoftu, Ethiopia",Ethiopian Airlines,301,B737
-157,1992-12-22,"Tripoli, Libya",Libya Arab Airlines / Lib AF,1103/-,B727
-156,1987-08-16,"Romulus, Michigan",Northwest Airlines,255,MD82
-156,1972-08-14,"KKönigs Wusterhausen, E. Germany",Interflug,,IL62
-156,1979-11-26,"Jeddah, Saudi Arabia",Pakistan Inter. Airlines,740,B707
-155,1972-12-03,"Tenerife, Canary Islands",Spantax,,Convair 990
-155,1975-04-04,"Siagon, Vietnam",U.S. Air Force,,C-5 Gallaxy
-154,1969-03-16,"Maracaibo, Venezuela",Venezolana Inter. de Av.,742,DC9
-154,1976-09-19,"Karatepe Mountains, Turkey",Turkish Airlines,452,B727
-154,2006-09-29,"Sao Felix do Araguaia,Brazil",Gol Airlines,1907,B-737
-153,1982-07-09,"Kenner, Louisiana",Pan American World Airways,759,B727
-153,2008-08-20,"Madrid, Spain",Spanair,5022,MD-82
-152,2009-06-30,"Mitsamiouli, Comoros",Yemenia,626,A310
-152,2010-07-28,"Islamabad, Pakistan",Airblue,202,A321
-150,2015-03-24,"Near Digne-Les-Bains, France",Germanwings,9525,A320
-149,2002-05-04,"Kano, Nigeria",EAS Airlines,4226,BAC-111
-148,1985-02-19,"Mt. Oiz, Spain",Iberia Airlines,610,B727
-148,2004-01-03,"Off Sharm el Sheikh-Ophira, Egypt",Flash Air,604,B737
-146,1980-04-25,"Tenerife, Canary Islands",Dan Air,1008,B727
-145,2001-07-04,"Irkutsk, Russia",Vladivostokavia,352,TU154
-144,1989-02-08,"Santa Maria, Azores",Independent Air Inc,1851,B707
-144,1978-09-25,"San Diego, California",Pacific Southwest/Private,182,B727 /C172
-143,1996-11-07,"Lagos, Nigeria",Aviation Devel. Corp.,086,B727
-143,1988-03-17,"Cucuta, Colombia",Avianca,410,B727
-143,2000-08-23,"Off Manama, Behrain",Gulf Air,072,A320
-143,2005-09-05,"Medan, Indonesia",Mandala Airlines,091,B737
-141,1996-08-29,"Spitsbergen, Norway",Vnokovo Airlines,2801,TU154
-141,1995-12-18,"Kahengula, Angola",Trans Service Airlift,,L188C
-141,1992-11-24,"Liutang, Guangxi, China",China Southern Airlines,3943,B737
-140,2003-12-25,"Cotonou, Benin",UTA,141,B727
-137,1982-06-08,"Near Pacatuba, Brazil",VASP,168,B727
-135,1985-08-02,"Ft. Worth-Dallas, Texas",Delta Air Lines,191,L1011
-134,1960-12-16,"Staten Island/Brooklyn, New York",United Air Lines / TWA,826/266,DC8 / L1049
-133,1966-02-04,"Tokyo Bay, Japan",All Nippon Airways,60,B727
-133,1993-02-08,"Tehran, Iran",Iran Air/Air Force,,TU154M
+fatalities,date,declared_hour,route,operator,aboard_pass,aboard_crew,deceased_aboard_total,deceased_aboard_pass,deceased_aboard_crew,deceased_not_on_total,deaths_tot,deaths_crew,deaths_pass
+2907,2001-09-11,1900-01-01 09:03:00,"New York City, New York",United Air Lines,56.0,9.0,65.0,56.0,9.0,2750.0,100.0,100.0,100.0
+583,1977-03-27,1900-01-01 17:07:00,"Tenerife, Canary Islands",Pan American World Airways / KLM,614.0,30.0,583.0,560.0,23.0,0.0,90.527950310559,76.66666666666667,91.20521172638436
+520,1985-08-12,,"Mt. Osutaka, Japan",,,,,,,,,,
+349,1996-11-12,,"New Delhi, India",,,,,,,,,,
+346,1974-03-03,,"Bois d' Ermenonville, France",,,,,,,,,,
+329,1985-06-23,,Atlantic Ocean West of Ireland,,,,,,,,,,
+301,1980-08-19,1900-01-01 19:08:00,"Riyadh, Saudi Arabia",Saudi Arabian Airlines,287.0,14.0,301.0,287.0,14.0,0.0,100.0,100.0,100.0
+298,2014-07-17,1900-01-01 16:19:00,"Hrabove, Ukraine",Malaysia Airlines,283.0,15.0,298.0,283.0,15.0,0.0,100.0,100.0,100.0
+290,1988-07-03,,Persian Gulf,,,,,,,,,,
+275,2003-02-19,,"Shahdad, Iran",,,,,,,,,,
+273,1979-05-25,,"Chicago, Illinois",,,,,,,,,,
+270,1988-12-21,1900-01-01 19:03:00,"Lockerbie, Scotland",Pan American World Airways,243.0,16.0,259.0,243.0,16.0,11.0,100.0,100.0,100.0
+269,1983-09-01,,"Sakhalin Island, Russia",,,,,,,,,,
+265,2001-11-12,1900-01-01 09:16:00,"Belle Harbor, Queens, New York",American Airlines,251.0,9.0,260.0,251.0,9.0,5.0,100.0,100.0,100.0
+264,1994-04-26,,"Komaki, Japan",,,,,,,,,,
+261,1991-07-11,1900-01-01 08:40:00,"Jeddah, Saudi Arabia",Nationair (chartered by Nigeria Airways),247.0,14.0,261.0,247.0,14.0,0.0,100.0,100.0,100.0
+257,2018-04-11,,"Bufarik AB, Algeria",,,,,,,,,,
+257,1979-11-28,,"Mt. Erebus, Antarctica",,,,,,,,,,
+256,1985-12-12,1900-01-01 06:45:00,"Gander, Newfoundland, Canada",Arrow Airways,248.0,8.0,256.0,248.0,8.0,0.0,100.0,100.0,100.0
+239,2014-03-08,1900-01-01 02:41:00,South Indian Ocean,Malaysia Airlines,227.0,12.0,239.0,227.0,12.0,0.0,100.0,100.0,100.0
+234,1997-09-26,1900-01-01 13:34:00,"Buah Nabar, Indonesia",Garuda Indonesia Airlines,222.0,12.0,234.0,222.0,12.0,0.0,100.0,100.0,100.0
+230,1996-07-17,1900-01-01 20:31:00,"Off East Moriches, New York",Trans World Airlines,212.0,18.0,230.0,212.0,18.0,0.0,100.0,100.0,100.0
+229,1998-09-02,,"Off Nova Scotia, Canada",,,,,,,,,,
+228,2009-06-01,,Atlantic Ocean,,,,,,,,,,
+228,1997-08-06,1900-01-01 01:42:00,"Agana, Guam",Korean Airlines,231.0,23.0,228.0,206.0,22.0,0.0,89.76377952755905,95.65217391304348,89.17748917748918
+227,1996-01-08,1900-01-01 12:43:00,"Kinshasa, Zaire",African Air,0.0,6.0,2.0,0.0,2.0,225.0,33.333333333333336,33.333333333333336,
+225,2002-05-25,,"Off Penghu, Taiwan",,,,,,,,,,
+224,2015-10-31,,"North Sinai, Egypt",,,,,,,,,,
+223,1991-05-26,,"Ban Nong Rong, Thailand",,,,,,,,,,
+217,1999-10-31,,"Off Nantucket, Massachusetts",,,,,,,,,,
+213,1978-01-01,1900-01-01 20:41:00,"Off Bandra, Maharashtra, India",Air India,190.0,23.0,213.0,190.0,23.0,0.0,100.0,100.0,100.0
+203,1998-02-16,1900-01-01 20:09:00,"Taipei, Taiwan",China Airlines (Taiwan),182.0,14.0,196.0,182.0,14.0,7.0,100.0,100.0,100.0
+200,1985-07-10,,"Uchuduk, Uzbekistan, USSR",,,,,,,,,,
+199,2007-07-17,1900-01-01 18:52:00,"Sao Paulo, Brazil",TAM (Brazil),181.0,6.0,187.0,181.0,6.0,12.0,100.0,100.0,100.0
+191,1974-12-04,,"Maskeliya, Sri Lanka",,,,,,,,,,
+189,2001-09-11,,"Arlington, Virginia",,,,,,,,,,
+189,1996-02-06,,"Puerto Plata, Dominican Republic",,,,,,,,,,
+189,2018-10-29,,Lion Air,,,,,,,,,,
+188,1975-08-03,,"Immouzer, Morocco",,,,,,,,,,
+183,1987-05-09,1900-01-01 11:12:00,"Warsaw, Poland",LOT Polish Airlines,172.0,11.0,183.0,172.0,11.0,0.0,100.0,100.0,100.0
+183,1978-11-15,,"Katunavake, Sir Lanka",,,,,,,,,,
+181,1983-11-27,,"Madrid, Spain",,,,,,,,,,
+180,1981-12-01,,"Mt. San Pietro, Corsica, France",,,,,,,,,,
+178,1984-10-11,,"Omsk, Russia",,,,,,,,,,
+178,1979-08-11,,"Dneprodzerzhinsk, USSR",,,,,,,,,,
+176,2020-01-08,,"Shahriah, Iran",,,,,,,,,,
+176,1989-06-07,,"Paramaribo, Surinam",,,,,,,,,,
+176,1976-09-10,,"Gaj, Hrvatska, Yugoslavia",,,,,,,,,,
+176,1973-01-22,1900-01-01 09:30:00,"Kano, Nigeria",Alia Royal Jordanian Airlines,193.0,9.0,176.0,170.0,6.0,0.0,87.12871287128714,66.66666666666667,88.08290155440415
+174,1972-10-13,,"Krasnaya Polyana, USSR",,,,,,,,,,
+171,1989-09-19,,"Bilma, Niger",,,,,,,,,,
+171,1989-09-03,,"Havana, Cuba",,,,,,,,,,
+170,2006-08-22,,"Donetsk, Ukraine",,,,,,,,,,
+169,2000-01-30,1900-01-01 21:08:00,"Off Abidjan, Ivory Coast",Kenya Airways,169.0,10.0,169.0,159.0,10.0,0.0,94.41340782122904,100.0,94.0828402366864
+168,2009-07-15,,"Qazvin, Iran",,,,,,,,,,
+167,1992-09-28,,"Bhadagon, Katmandu, Nepal",,,,,,,,,,
+167,1986-03-31,1900-01-01 09:11:00,"Maravatio, Mexico",Mexicana,159.0,8.0,167.0,159.0,8.0,0.0,100.0,100.0,100.0
+166,1980-07-08,,"Nar Alma-Ata, Kasakastan, USSR",,,,,,,,,,
+163,1971-07-30,,"Morioko, Japan",,,,,,,,,,
+162,2014-12-28,1900-01-01 06:18:00,Java Sea,AirAsia,155.0,7.0,162.0,155.0,7.0,0.0,100.0,100.0,100.0
+160,2005-08-16,,"La Cucharita, Venezuela",,,,,,,,,,
+160,1995-12-20,,"Buga, Columbia",,,,,,,,,,
+160,1994-06-06,,"Xi'an, China",,,,,,,,,,
+159,1987-11-28,1900-01-01 04:00:00,"Off Mauritius, Indian Ocean",South African Airways,140.0,19.0,159.0,140.0,19.0,0.0,100.0,100.0,100.0
+159,2012-06-03,1900-01-01 16:45:00,"Lagos, Nigeria",Dana Air,146.0,7.0,153.0,146.0,7.0,10.0,100.0,100.0,100.0
+158,2010-05-22,1900-01-01 06:10:00,"Mangalore, India",Air India Express,160.0,6.0,159.0,153.0,6.0,0.0,95.78313253012048,100.0,95.625
+157,2019-03-10,1900-01-01 08:44:00,"Bishoftu, Ethiopia",Ethiopian Airlines,149.0,8.0,157.0,149.0,8.0,0.0,100.0,100.0,100.0
+157,1992-12-22,1900-01-01 10:00:00,"Tripoli, Libya",Libya Arab Airlines / Military -  Libya Air Force,147.0,10.0,157.0,147.0,10.0,0.0,100.0,100.0,100.0
+156,1987-08-16,1900-01-01 20:46:00,"Romulus, Michigan",Northwest Airlines,149.0,6.0,154.0,148.0,6.0,2.0,99.35483870967742,100.0,99.32885906040268
+156,1972-08-14,,"KKönigs Wusterhausen, E. Germany",,,,,,,,,,
+156,1979-11-26,,"Jeddah, Saudi Arabia",,,,,,,,,,
+155,1972-12-03,,"Tenerife, Canary Islands",,,,,,,,,,
+155,1975-04-04,,"Siagon, Vietnam",,,,,,,,,,
+154,1969-03-16,,"Maracaibo, Venezuela",,,,,,,,,,
+154,1976-09-19,1900-01-01 23:15:00,"Karatepe Mountains, Turkey",Turkish Airlines (THY),146.0,8.0,154.0,146.0,8.0,0.0,100.0,100.0,100.0
+154,2006-09-29,,"Sao Felix do Araguaia,Brazil",,,,,,,,,,
+153,1982-07-09,1900-01-01 16:09:00,"Kenner, Louisiana",Pan American World Airways,138.0,7.0,145.0,138.0,7.0,8.0,100.0,100.0,100.0
+153,2008-08-20,1900-01-01 14:45:00,"Madrid, Spain",Spanair,166.0,6.0,154.0,148.0,6.0,0.0,89.53488372093024,100.0,89.1566265060241
+152,2009-06-30,,"Mitsamiouli, Comoros",,,,,,,,,,
+152,2010-07-28,1900-01-01 09:45:00,"Islamabad, Pakistan",Airblue,146.0,6.0,152.0,146.0,6.0,0.0,100.0,100.0,100.0
+150,2015-03-24,1900-01-01 10:53:00,"Near Digne-Les-Bains, France",Germanwings,144.0,6.0,150.0,144.0,6.0,0.0,100.0,100.0,100.0
+149,2002-05-04,1900-01-01 13:30:00,"Kano, Nigeria",EAS Airlines (Executive Airline Services),69.0,8.0,74.0,67.0,7.0,78.0,96.1038961038961,87.5,97.10144927536231
+148,1985-02-19,,"Mt. Oiz, Spain",,,,,,,,,,
+148,2004-01-03,,"Off Sharm el Sheikh-Ophira, Egypt",,,,,,,,,,
+146,1980-04-25,1900-01-01 13:21:00,"Tenerife, Canary Islands",Dan Air Services,138.0,8.0,146.0,138.0,8.0,0.0,100.0,100.0,100.0
+145,2001-07-04,,"Irkutsk, Russia",,,,,,,,,,
+144,1989-02-08,,"Santa Maria, Azores",,,,,,,,,,
+144,1978-09-25,1900-01-01 09:02:00,"San Diego, California",Pacific Southwest Airlines / Private,128.0,9.0,137.0,128.0,9.0,7.0,100.0,100.0,100.0
+143,1996-11-07,1900-01-01 17:00:00,"Lagos, Nigeria",Aviation Development Corporation,134.0,9.0,143.0,134.0,9.0,0.0,100.0,100.0,100.0
+143,1988-03-17,,"Cucuta, Colombia",,,,,,,,,,
+143,2000-08-23,,"Off Manama, Behrain",,,,,,,,,,
+143,2005-09-05,1900-01-01 09:40:00,"Medan, Indonesia",Mandala Airlines,112.0,5.0,99.0,94.0,5.0,44.0,84.61538461538461,100.0,83.92857142857143
+141,1996-08-29,,"Spitsbergen, Norway",,,,,,,,,,
+141,1995-12-18,,"Kahengula, Angola",,,,,,,,,,
+141,1992-11-24,,"Liutang, Guangxi, China",,,,,,,,,,
+140,2003-12-25,1900-01-01 14:55:00,"Cotonou, Benin",Union des Transports Aeriens de Guinee,151.0,10.0,140.0,132.0,8.0,0.0,86.95652173913044,80.0,87.41721854304636
+137,1982-06-08,1900-01-01 02:25:00,"Near Pacatuba, Brazil",VASP,128.0,9.0,137.0,128.0,9.0,0.0,100.0,100.0,100.0
+135,1985-08-02,1900-01-01 18:06:00,"Ft. Worth-Dallas, Texas",Delta Air Lines,152.0,11.0,134.0,126.0,8.0,1.0,82.20858895705521,72.72727272727273,82.89473684210526
+134,1960-12-16,,"Staten Island/Brooklyn, New York",,,,,,,,,,
+133,1966-02-04,1900-01-01 19:00:00,"Tokyo Bay, Japan",All Nippon Airways,126.0,7.0,133.0,126.0,7.0,0.0,100.0,100.0,100.0
+133,1993-02-08,,"Tehran, Iran",,,,,,,,,,

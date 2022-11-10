@@ -1,0 +1,42 @@
+fatalities,date,declared_hour,route,operator,aboard_pass,aboard_crew,deceased_aboard_total,deceased_aboard_pass,deceased_aboard_crew,deceased_not_on_total,deaths_tot,deaths_crew,deaths_pass,military
+2907,2001-09-11,1900-01-01 09:03:00,"New York City, New York",united air lines,56.0,9.0,65.0,56.0,9.0,2750.0,100.0,100.0,100.0,False
+583,1977-03-27,1900-01-01 17:07:00,"Tenerife, Canary Islands",pan american world airways / klm,614.0,30.0,583.0,560.0,23.0,0.0,90.527950310559,76.66666666666667,91.20521172638436,False
+301,1980-08-19,1900-01-01 19:08:00,"Riyadh, Saudi Arabia",saudi arabian airlines,287.0,14.0,301.0,287.0,14.0,0.0,100.0,100.0,100.0,False
+298,2014-07-17,1900-01-01 16:19:00,"Hrabove, Ukraine",malaysia airlines,283.0,15.0,298.0,283.0,15.0,0.0,100.0,100.0,100.0,False
+270,1988-12-21,1900-01-01 19:03:00,"Lockerbie, Scotland",pan american world airways,243.0,16.0,259.0,243.0,16.0,11.0,100.0,100.0,100.0,False
+265,2001-11-12,1900-01-01 09:16:00,"Belle Harbor, Queens, New York",american airlines,251.0,9.0,260.0,251.0,9.0,5.0,100.0,100.0,100.0,False
+261,1991-07-11,1900-01-01 08:40:00,"Jeddah, Saudi Arabia",nationair (chartered by nigeria airways),247.0,14.0,261.0,247.0,14.0,0.0,100.0,100.0,100.0,False
+256,1985-12-12,1900-01-01 06:45:00,"Gander, Newfoundland, Canada",arrow airways,248.0,8.0,256.0,248.0,8.0,0.0,100.0,100.0,100.0,False
+239,2014-03-08,1900-01-01 02:41:00,South Indian Ocean,malaysia airlines,227.0,12.0,239.0,227.0,12.0,0.0,100.0,100.0,100.0,False
+234,1997-09-26,1900-01-01 13:34:00,"Buah Nabar, Indonesia",garuda indonesia airlines,222.0,12.0,234.0,222.0,12.0,0.0,100.0,100.0,100.0,False
+230,1996-07-17,1900-01-01 20:31:00,"Off East Moriches, New York",trans world airlines,212.0,18.0,230.0,212.0,18.0,0.0,100.0,100.0,100.0,False
+228,1997-08-06,1900-01-01 01:42:00,"Agana, Guam",korean airlines,231.0,23.0,228.0,206.0,22.0,0.0,89.76377952755905,95.65217391304348,89.17748917748918,False
+227,1996-01-08,1900-01-01 12:43:00,"Kinshasa, Zaire",african air,0.0,6.0,2.0,0.0,2.0,225.0,33.333333333333336,33.333333333333336,,False
+213,1978-01-01,1900-01-01 20:41:00,"Off Bandra, Maharashtra, India",air india,190.0,23.0,213.0,190.0,23.0,0.0,100.0,100.0,100.0,False
+203,1998-02-16,1900-01-01 20:09:00,"Taipei, Taiwan",china airlines (taiwan),182.0,14.0,196.0,182.0,14.0,7.0,100.0,100.0,100.0,False
+199,2007-07-17,1900-01-01 18:52:00,"Sao Paulo, Brazil",tam (brazil),181.0,6.0,187.0,181.0,6.0,12.0,100.0,100.0,100.0,False
+183,1987-05-09,1900-01-01 11:12:00,"Warsaw, Poland",lot polish airlines,172.0,11.0,183.0,172.0,11.0,0.0,100.0,100.0,100.0,False
+176,1973-01-22,1900-01-01 09:30:00,"Kano, Nigeria",alia royal jordanian airlines,193.0,9.0,176.0,170.0,6.0,0.0,87.12871287128714,66.66666666666667,88.08290155440415,False
+169,2000-01-30,1900-01-01 21:08:00,"Off Abidjan, Ivory Coast",kenya airways,169.0,10.0,169.0,159.0,10.0,0.0,94.41340782122904,100.0,94.0828402366864,False
+167,1986-03-31,1900-01-01 09:11:00,"Maravatio, Mexico",mexicana,159.0,8.0,167.0,159.0,8.0,0.0,100.0,100.0,100.0,False
+162,2014-12-28,1900-01-01 06:18:00,Java Sea,airasia,155.0,7.0,162.0,155.0,7.0,0.0,100.0,100.0,100.0,False
+159,1987-11-28,1900-01-01 04:00:00,"Off Mauritius, Indian Ocean",south african airways,140.0,19.0,159.0,140.0,19.0,0.0,100.0,100.0,100.0,False
+159,2012-06-03,1900-01-01 16:45:00,"Lagos, Nigeria",dana air,146.0,7.0,153.0,146.0,7.0,10.0,100.0,100.0,100.0,False
+158,2010-05-22,1900-01-01 06:10:00,"Mangalore, India",air india express,160.0,6.0,159.0,153.0,6.0,0.0,95.78313253012048,100.0,95.625,False
+157,2019-03-10,1900-01-01 08:44:00,"Bishoftu, Ethiopia",ethiopian airlines,149.0,8.0,157.0,149.0,8.0,0.0,100.0,100.0,100.0,False
+157,1992-12-22,1900-01-01 10:00:00,"Tripoli, Libya",libya arab airlines / military -  libya air force,147.0,10.0,157.0,147.0,10.0,0.0,100.0,100.0,100.0,True
+156,1987-08-16,1900-01-01 20:46:00,"Romulus, Michigan",northwest airlines,149.0,6.0,154.0,148.0,6.0,2.0,99.35483870967742,100.0,99.32885906040268,False
+154,1976-09-19,1900-01-01 23:15:00,"Karatepe Mountains, Turkey",turkish airlines (thy),146.0,8.0,154.0,146.0,8.0,0.0,100.0,100.0,100.0,False
+153,1982-07-09,1900-01-01 16:09:00,"Kenner, Louisiana",pan american world airways,138.0,7.0,145.0,138.0,7.0,8.0,100.0,100.0,100.0,False
+153,2008-08-20,1900-01-01 14:45:00,"Madrid, Spain",spanair,166.0,6.0,154.0,148.0,6.0,0.0,89.53488372093024,100.0,89.1566265060241,False
+152,2010-07-28,1900-01-01 09:45:00,"Islamabad, Pakistan",airblue,146.0,6.0,152.0,146.0,6.0,0.0,100.0,100.0,100.0,False
+150,2015-03-24,1900-01-01 10:53:00,"Near Digne-Les-Bains, France",germanwings,144.0,6.0,150.0,144.0,6.0,0.0,100.0,100.0,100.0,False
+149,2002-05-04,1900-01-01 13:30:00,"Kano, Nigeria",eas airlines (executive airline services),69.0,8.0,74.0,67.0,7.0,78.0,96.1038961038961,87.5,97.10144927536231,False
+146,1980-04-25,1900-01-01 13:21:00,"Tenerife, Canary Islands",dan air services,138.0,8.0,146.0,138.0,8.0,0.0,100.0,100.0,100.0,False
+144,1978-09-25,1900-01-01 09:02:00,"San Diego, California",pacific southwest airlines / private,128.0,9.0,137.0,128.0,9.0,7.0,100.0,100.0,100.0,False
+143,1996-11-07,1900-01-01 17:00:00,"Lagos, Nigeria",aviation development corporation,134.0,9.0,143.0,134.0,9.0,0.0,100.0,100.0,100.0,False
+143,2005-09-05,1900-01-01 09:40:00,"Medan, Indonesia",mandala airlines,112.0,5.0,99.0,94.0,5.0,44.0,84.61538461538461,100.0,83.92857142857143,False
+140,2003-12-25,1900-01-01 14:55:00,"Cotonou, Benin",union des transports aeriens de guinee,151.0,10.0,140.0,132.0,8.0,0.0,86.95652173913044,80.0,87.41721854304636,False
+137,1982-06-08,1900-01-01 02:25:00,"Near Pacatuba, Brazil",vasp,128.0,9.0,137.0,128.0,9.0,0.0,100.0,100.0,100.0,False
+135,1985-08-02,1900-01-01 18:06:00,"Ft. Worth-Dallas, Texas",delta air lines,152.0,11.0,134.0,126.0,8.0,1.0,82.20858895705521,72.72727272727273,82.89473684210526,False
+133,1966-02-04,1900-01-01 19:00:00,"Tokyo Bay, Japan",all nippon airways,126.0,7.0,133.0,126.0,7.0,0.0,100.0,100.0,100.0,False
